@@ -8,20 +8,11 @@
 
 
 ### Hi there 👋
-⚡ a Senior DevOps engenieer with GitHub :octocat: on the FastTrack team
+⚡ DevOps engenieer with GitHub :octocat: on the FastTrack team
 
-⚡ a blog 📖 about my daily experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 
+📖 Blog about my daily experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 
 
-⚡ a store of my previous life: [https://studio1.readthedocs.io](https://studio1.readthedocs.io)
-
- 🔭 Currently working on ...work
- 🌱 Learning ...to learn
- 👯 Collaborate on ...cycling
- 🤔 Looking for help with ...me
- 💬 Ask me about ...nothing
- 📫 Reach me @: ...404
- 😄 Pronouns: ...I'm no fat
- ⚡ Fun fact: ...whoami
+⚡ Store of my previous life: [https://studio1.readthedocs.io](https://studio1.readthedocs.io)
 
 ⚡ To contact me: 
   - 🌱 Leave a comment on one of my [posts](https://rumen.free.bg/)!
@@ -29,3 +20,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,py,github,gradle,jenkins,kubernetes,linux&perline=3)](https://skillicons.dev)
 
+ 🔭 Currently working on ...work
+ 🌱 Learning ...to learn
+ 👯 Collaborate on ...cycling
+ 🤔 Looking for help with ...me
+ 💬 Ask me about ...nothing
+ 📫 Reach me @: ...404
+ 😄 Pronouns: ...Road Cyclist
+ -->
