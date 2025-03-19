@@ -9,15 +9,11 @@
 
 ### Hi there 👋
 
-⚡ I am a Senior DevOps Architect with GitHub :octocat: on the FastTrack team
+⚡ a Senior DevOps engenieer with GitHub :octocat: on the FastTrack team
 
-⚡ I blog about my GitHub and my DevOps experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 📖
+⚡ a blog about my GitHub and my DevOps experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 📖
 
-⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/airdata/github-misc-scripts) repo ✨
-
-⚡ Check out some of my GitHub Actions on the Actions Marketplace [here](https://github.com/marketplace?type=actions&query=airdata) 🚀
-
-⚡ Avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/airdata/pipeline-templates) repo
+⚡ a store of my previous life: [https://studio1.readthedocs.io](https://studio1.readthedocs.io)
 
 ⚡ To contact me: 
   - 🌱 Leave a comment on one of my [posts](https://rumen.free.bg/)!
