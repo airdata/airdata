@@ -8,30 +8,22 @@
 
 
 ### Hi there 👋
-
 ⚡ a Senior DevOps engenieer with GitHub :octocat: on the FastTrack team
-
 ⚡ a blog about my GitHub and my DevOps experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 📖
-
 ⚡ a store of my previous life: [https://studio1.readthedocs.io](https://studio1.readthedocs.io)
+
+ 🔭 Currently working on ...work
+ 🌱 Learning ...to learn
+ 👯 Collaborate on ...cycling
+ 🤔 Looking for help with ...me
+ 💬 Ask me about ...nothing
+ 📫 Reach me @: ...404
+ 😄 Pronouns: ...I'm no fat
+ ⚡ Fun fact: ...whoami
 
 ⚡ To contact me: 
   - 🌱 Leave a comment on one of my [posts](https://rumen.free.bg/)!
   - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/rumen-lishkov/)
-  - 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,py,github,gradle,jenkins,kubernetes,linux&perline=3)](https://skillicons.dev)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...work
-- 🌱 I’m currently learning ...to learn
-- 👯 I’m looking to collaborate on ...cycling
-- 🤔 I’m looking for help with ...me
-- 💬 Ask me about ...nothing
-- 📫 How to reach me: ...404
-- 😄 Pronouns: ...I'm no fat
-- ⚡ Fun fact: ...whoami
--->
-
 
