@@ -9,7 +9,9 @@
 
 ### Hi there 👋
 ⚡ a Senior DevOps engenieer with GitHub :octocat: on the FastTrack team
-⚡ a blog about my GitHub and my DevOps experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 📖
+
+⚡ a blog 📖 about my daily experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 
+
 ⚡ a store of my previous life: [https://studio1.readthedocs.io](https://studio1.readthedocs.io)
 
  🔭 Currently working on ...work
