@@ -1,5 +1,9 @@
 ### 🧠 About:
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=🥵.....🥵.....🍺.....🕺......🍺">
+</p>
+
   **DevOps / Software Automation Engineer** in optimizing enterprise infrastructure focus on progressive delivery, and scaling
 
 Specialize in bridging the gap between development and operations by building resilient, automated, and observable platforms 🚀.
@@ -68,17 +72,17 @@ Specialize in bridging the gap between development and operations by building re
     <img src="https://img.icons8.com/color/28/linkedin.png" alt="linkedin"/> <b>LinkedIn</b>
   </a>  
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:rumenlishkoff@gmail.com">
     <img src="https://img.icons8.com/color/28/gmail-new.png" alt="gmail"/> <b>Email</b>
   </a>  
   &nbsp;&nbsp;
   <a href="https://github.com/airdata">
     <img src="https://img.icons8.com/color/28/github--v1.png" alt="github"/> <b>GitHub</b>
   </a>
-</p>
+  &nbsp;&nbsp;
+  <a href="https://airdata.gitlab.io/blog/">
+    <img src=" https://icons8.com/icon/18900/blog" alt="github"/> <b>Blog</b>
+  </a>
+ </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+👋;Let's+automate+the+world!">
-</p>
