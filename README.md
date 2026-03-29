@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Rumen+Lishkov;+DevOps+and+%26+Automation+Enthusiast;Infrastructure+as+Code+Architect" alt="Typing SVG" />
-</p>
-
----
-
 ### 🧠 About Me
 Rumen Lishkov
 
