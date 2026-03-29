@@ -4,12 +4,11 @@
 
 Specialize in bridging the gap between development and operations by building resilient, automated, and observable platforms 🚀.
 
-> *“Automate the repeatable, secure the critical, and scale the future.”* 🔥  
+> *“Automate the repeatable, or you'll be automated by it.”*  
 
 ---
 
 ### 🛠️ Core Expertise:
-
 | Domain | Stack |
 |--------|--------|
 | **Orchestration & Containers** | Kubernetes (AKS, K3s), Docker, Rancher |
@@ -25,7 +24,6 @@ Specialize in bridging the gap between development and operations by building re
 ---
 
 ### 🧰 Toolbox:  
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
@@ -53,7 +51,6 @@ Specialize in bridging the gap between development and operations by building re
 ---
 
 ### 📈 GitHub Stats & Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JCodesMore&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCodesMore&layout=compact&langs_count=15&theme=tokyonight&count_private=true&hide_border=true" height="165" />
