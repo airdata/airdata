@@ -1,28 +1,95 @@
-<a href="https://rumen.free.bg/"><img src="https://img.shields.io/static/v1?label=website&message=rumen.free.bg/&color=teal"></a> 
-<a href="https://www.linkedin.com/in/rumen-lishkov/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
-<a href="https://airdata.gitlab.io/blog//"><img src="https://img.shields.io/static/v1?label=Blog&message=Read&color=blue"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Rumen+Lishkov;Senior+DevOps+Engineer;GitOps+%26+Automation+Enthusiast;Infrastructure+as+Code+Architect" alt="Typing SVG" />
+</p>
 
-<img src="https://github.com/airdata/airdata-web/blob/master/images/9114FE22-ED7F-4CF4-AE77-C8CABCB099CD.png" width="900" >
-✨ Part from [@cbmak](https://github.com/cbmak)
+---
+
+### 🧠 About Me
+**Rumen Lishkov** 
+
+...a **DevOps & Software Engineer** with over 15 years of experience in optimizing enterprise infrastructure focus on GitOps, progressive delivery, and scaling cloud-native architectures.
+
+Specialize in bridging the gap between development and operations by building resilient, automated, and observable platforms 🚀.
+
+> *“Automate the repeatable, secure the critical, and scale the future.”* 🔥  
+
+---
+
+### 🛠️ Core Expertise
+
+| Domain | Stack |
+|--------|--------|
+| **Orchestration & Containers** | Kubernetes (AKS, K3s), Docker, Rancher |
+| **Infrastructure as Code** | Terraform, Ansible, CloudFormation |
+| **GitOps & CI/CD** | ArgoCD, Jenkins, GitHub Actions, GitLab-CI, Helm, Kustomize |
+| **Cloud Providers** | Azure, AWS, Google Cloud Platform (GCP) |
+| **Observability & Logging** | Prometheus, Grafana, ELK Stack, Nagios, Loki |
+| **Security & Identity** | CyberArk, Azure Managed Identities, Key Vault, SSL/TLS, Kerberos |
+| **Messaging & Middleware** | Kafka, RabbitMQ, Nexus |
+| **Virtualization** | VMware (P2V), Proxmox, VirtualBox |
+| **Scripting & Languages** | Python, Bash, Groovy, Java, Go, PHP |
+
+---
+
+### 🧰 Tech Toolbox  
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
+  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+</p>
+
+---
+
+### 🧩 Build & Manage
+- **GitOps Workflows** – Implementing progressive delivery with ArgoCD and Helm.
+- **Enterprise Automation** – Scaling P&O processes using Jenkins, Ansible, and CyberArk.
+- **Cloud Infrastructure** – Designing multi-environment setups in Azure and AWS via Terraform.
+- **Blockchain Infrastructure** – Experience in deploying Corda nodes and CorDapps on AKS.
+- **Disaster Recovery & Migration** – Proven track record in P2V migrations and high-availability setups.
+- **Observability Pipelines** – State-of-the-art notification and monitoring solutions.
 
 
-### Hi there 👋
-⚡ DevOps engenieer with GitHub :octocat: on the FastTrack team
+---
 
-📖 Blog about my daily experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 
+### 📈 GitHub Stats & Analytics
 
-⚡ Store of my previous life: [https://studio1.readthedocs.io](https://studio1.readthedocs.io)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JCodesMore&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCodesMore&layout=compact&langs_count=15&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+</p>
 
-- 🔭 Currently working on ...work
-- 🌱 Learning ...to learn
-- 👯 Collaborate on ...cycling
-- 🤔 Looking for help with ...me
-- 💬 Ask me about ...nothing
-- 📫 Reach me @: ...404
-- 😄 Pronouns: ...Road Cyclist
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JCodesMore&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
 
-📖 To contact me: 
-  - 🌱 Leave a comment on one of my [posts](https://rumen.free.bg/)!
-  - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/rumen-lishkov/)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,py,github,gradle,jenkins,kubernetes,linux&perline=3)](https://skillicons.dev)
+### 🌍 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rumen-lishkov" target="_blank">
+    <img src="https://img.icons8.com/color/28/linkedin.png" alt="linkedin"/> <b>LinkedIn</b>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/color/28/gmail-new.png" alt="gmail"/> <b>Email</b>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://github.com/airdata">
+    <img src="https://img.icons8.com/color/28/github--v1.png" alt="github"/> <b>GitHub</b>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+👋;Let's+automate+the+world!">
+</p>
