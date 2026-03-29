@@ -1,5 +1,4 @@
-### 🧠 About Me
-Rumen Lishkov
+### 🧠 About:
 
   **DevOps / Software Automation Engineer** in optimizing enterprise infrastructure focus on progressive delivery, and scaling
 
@@ -9,7 +8,7 @@ Specialize in bridging the gap between development and operations by building re
 
 ---
 
-### 🛠️ Core Expertise
+### 🛠️ Core Expertise:
 
 | Domain | Stack |
 |--------|--------|
@@ -25,7 +24,7 @@ Specialize in bridging the gap between development and operations by building re
 
 ---
 
-### 🧰 Tech Toolbox  
+### 🧰 Toolbox:  
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
@@ -42,7 +41,7 @@ Specialize in bridging the gap between development and operations by building re
 
 ---
 
-### 🧩 Build & Manage
+### 🧩 CI/CD
 - **GitOps Workflows** – Implementing progressive delivery with ArgoCD and Helm.
 - **Enterprise Automation** – Scaling P&O processes using Jenkins, Ansible, and CyberArk.
 - **Cloud Infrastructure** – Designing multi-environment setups in Azure and AWS via Terraform.
@@ -66,8 +65,7 @@ Specialize in bridging the gap between development and operations by building re
 
 ---
 
-### 🌍 Connect with Me
-
+### 🌍 Connects:
 <p align="left">
   <a href="https://linkedin.com/in/rumen-lishkov" target="_blank">
     <img src="https://img.icons8.com/color/28/linkedin.png" alt="linkedin"/> <b>LinkedIn</b>
