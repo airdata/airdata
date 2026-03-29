@@ -1,21 +1,27 @@
 ### 🧠 About:
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=🥵.....🥵.....🍺..🍺... 🚀....🕺..🕺">
-</p>
-
----
-> *“Automate the repeatable, or you'll be automated by it.”*  
----
-
 **DevOps / Automation Engineer** focus on progressive delivery, scaling and optimizing enterprise automations.
 
 Specialize in bridging the gap between development and operations by building resilient, automated, and observable platforms.
 
+> *“Automate the repeatable, or you'll be automated by it.”*
+> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=🥵.....🥵.....🍺....🍺....🚀.">
+</p>
+
 
 ### 🌍 Connects:
+
 <p align="left">
+  <a href="https://airdata.github.io">
+    🌐 <b>Web</b>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://airdata.gitlab.io/blog/">
+    📋 <b>Blog</b>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/rumen-lishkov" target="_blank">
     <img src="https://img.icons8.com/color/28/linkedin.png" alt="linkedin"/> <b>LinkedIn</b>
   </a>  
@@ -26,10 +32,6 @@ Specialize in bridging the gap between development and operations by building re
   &nbsp;&nbsp;
   <a href="https://github.com/airdata">
     <img src="https://img.icons8.com/color/28/github--v1.png" alt="github"/> <b>GitHub</b>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://airdata.gitlab.io/blog/">
-    <img src=" https://icons8.com/icon/18900/blog" alt="github"/> <b>Blog</b>
   </a>
  </p>
 
