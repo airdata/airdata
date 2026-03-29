@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Rumen+Lishkov;Senior+DevOps+Engineer;GitOps+%26+Automation+Enthusiast;Infrastructure+as+Code+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Rumen+Lishkov;+DevOps+and+%26+Automation+Enthusiast;Infrastructure+as+Code+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
-**Rumen Lishkov** 
+Rumen Lishkov
 
-...a **DevOps & Software Engineer** with over 15 years of experience in optimizing enterprise infrastructure focus on GitOps, progressive delivery, and scaling cloud-native architectures.
+  **DevOps / Software Automation Engineer** in optimizing enterprise infrastructure focus on progressive delivery, and scaling
 
 Specialize in bridging the gap between development and operations by building resilient, automated, and observable platforms 🚀.
 
